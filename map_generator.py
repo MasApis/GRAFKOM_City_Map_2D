@@ -375,6 +375,5 @@ class MapGenerator:
         self._bangun_graf_jalan()
         return self.graph_nodes
 
-# ============================================================
 # 2. MODUL ABDUL HAFIDZ — Matriks Kendaraan
 # ============================================================
